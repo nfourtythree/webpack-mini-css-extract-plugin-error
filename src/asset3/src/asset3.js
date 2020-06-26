@@ -1,2 +1,2 @@
-import './asset2.scss';
-console.log('asset2');
+import './asset3.scss';
+console.log('asset3');
